@@ -6,7 +6,7 @@
   (let [{:keys [color background]} props]
     [:div
      [:a
-      {:href "https://github.com/djblue/tetris"
+      {:href "https://github.com/powergod50000/tetris"
        :class :github-corner
        :aria-label "View source on GitHub"
        :style
